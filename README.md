@@ -1,0 +1,1 @@
+In this project, We will build and train a Machine Learning Model to predict Hotel Booking cancellations. 
